@@ -1,0 +1,1 @@
+These do not have Mg2+ ions which currently don’t work on gromacs – but should be strightforward to sort – Georgina will look at this.
